@@ -8,6 +8,7 @@ public class SpringBootUploadFilesRestApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootUploadFilesRestApiApplication.class, args);
+		System.out.println("Spring Boot Upload Files Rest Api .....!!");
 	}
 
 }
